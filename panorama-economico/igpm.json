@@ -5,12 +5,12 @@
     "stats": [
         {
             "titulo": "Brasil",
-            "valor": "0.45%",
+            "valor": "-0,06%",
             "direcao": "up",
             "cor_valor": "green",
             "desc_serie": "Variação percentual mensal(Em atualização)",
             "serie_tipo": "data",
-            "referencia": "Dez/2022",
+            "referencia": "Fev/2023",
             "y_label": {
                 "prefixo_sufixo": "sufixo",
                 "label": "%"
@@ -67,6 +67,15 @@
                 {
                     "x": "2022-12-01T00:00:00Z",
                     "y": 0.45
+                },
+               
+                {
+                    "x": "2023-01-01T00:00:00Z",
+                    "y": 0,21
+                },
+                {
+                    "x": "2023-02-01T00:00:00Z",
+                    "y": -0,06
                 }
             ]
         }
